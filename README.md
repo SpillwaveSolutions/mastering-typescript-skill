@@ -58,30 +58,30 @@ pip install skilz
 
 Install to user home (available in all projects):
 ```bash
-skilz install -g https://github.com/YOUR_ORG/mastering-typescript-skill
+skilz install -g https://github.com/SpillwaveSolutions/mastering-typescript-skill
 ```
 
 Install to current project only:
 ```bash
-skilz install -g https://github.com/YOUR_ORG/mastering-typescript-skill --project
+skilz install -g https://github.com/SpillwaveSolutions/mastering-typescript-skill --project
 ```
 
 ### OpenCode
 
 ```bash
-skilz install -g https://github.com/YOUR_ORG/mastering-typescript-skill --agent opencode
+skilz install -g https://github.com/SpillwaveSolutions/mastering-typescript-skill --agent opencode
 ```
 
 ### Gemini
 
 ```bash
-skilz install -g https://github.com/YOUR_ORG/mastering-typescript-skill --agent gemini
+skilz install -g https://github.com/SpillwaveSolutions/mastering-typescript-skill --agent gemini
 ```
 
 ### OpenAI Codex
 
 ```bash
-skilz install -g https://github.com/YOUR_ORG/mastering-typescript-skill --agent codex
+skilz install -g https://github.com/SpillwaveSolutions/mastering-typescript-skill --agent codex
 ```
 
 ## Skill Contents
